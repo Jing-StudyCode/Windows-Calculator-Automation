@@ -5,7 +5,7 @@ from appium import webdriver
 from appium.options.windows import WindowsOptions
 from appium.webdriver.common.appiumby import AppiumBy
 
-from Pages.calculator_page import CalculatorPage
+from pages.calculator_page import CalculatorPage
 
 test_data = [("num1Button","plusButton","num1Button","2","1+1=2"),
              ("num2Button","plusButton","num3Button","5","2+3=5"),
