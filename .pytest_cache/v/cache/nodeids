@@ -1,3 +1,7 @@
 [
-  "test_calc.py::test_calculator_addition"
+  "test_calc.py::test_calculator_addition",
+  "test_calc.py::test_calculator_operations[num1Button-plusButton-num1Button-2-1+1=2]",
+  "test_calc.py::test_calculator_operations[num2Button-plusButton-num3Button-5-2+3=5]",
+  "test_calc.py::test_calculator_operations[num5Button-multiplyButton-num2Button-10-5*2=10]",
+  "test_calc.py::test_calculator_operations[num9Button-minusButton-num4Button-5-9-4=5]"
 ]
